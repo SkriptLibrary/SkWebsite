@@ -7,7 +7,7 @@ export default {
   ],
   description: 'Documentation for SkLibrary',
   themeConfig: {
-    logo: `assets/logo.png`,
+    logo: `https://raw.githubusercontent.com/SkriptLibrary/SkWebsite/e68cb2abc761caa52a9a9b35202e84019dde04c1/docs/assets/logo.png`,
     nav: [
       { text: 'Homepage', link: '/' },
       { text: 'Guide', link: '/pages/introduction/' },
