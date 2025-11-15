@@ -4,7 +4,7 @@ layout: home
 hero:
   name: '<span class="gradient-text">SkLibrary</span>'
   text: A simple and powerful Skript library.
-  tagline: Download prefabricated Skripts from our team or the community! <b>The Skript Library</b>.
+  tagline: Download prefabricated Skripts from our team or the community directly with a plugin!
   image:
     src: 'https://raw.githubusercontent.com/SkriptLibrary/SkWebsite/e68cb2abc761caa52a9a9b35202e84019dde04c1/docs/assets/logo.png'
     alt: SkLibrary logo
