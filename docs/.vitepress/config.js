@@ -1,5 +1,5 @@
 export default {
-  base: '/SkWebsite/',
+  base: '/SkLibraryWebsite/',
   title: 'SkLibrary',
   ignoreDeadLinks: true,
   head: [
